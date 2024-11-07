@@ -1,11 +1,13 @@
 import Card from "./components/Card"
+import Form from "./components/Form"
+import { useState } from 'react'
 import './App.css'
 
 function App() {
+
   return (
     <div className="App">
       <h1>Carga de estudiantes</h1>
-      <form></form>
       <Card />
     </div>
   )
