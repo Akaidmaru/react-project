@@ -4,8 +4,8 @@ import Form from "./Form"
 const Card = () => {
     return (
         <>
-            <div>¡Hola, Soy una tarjeta!</div>
-            <Form />
+    <div>¡Hola, Soy una tarjeta!</div>
+        <Form />
         </>
     )
 
